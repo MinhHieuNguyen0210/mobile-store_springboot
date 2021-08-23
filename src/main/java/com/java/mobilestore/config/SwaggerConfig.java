@@ -24,7 +24,7 @@ public class SwaggerConfig {
                 .apiInfo(new ApiInfo(
                         "RestApi Document",
                         "MobileStore Spring Boot",
-                        "1.0.1",
+                        "1.0.1.1",
                         "",
                         new Contact("", "", ""),
                         "",
