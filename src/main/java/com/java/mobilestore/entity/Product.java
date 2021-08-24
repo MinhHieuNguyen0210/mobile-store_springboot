@@ -38,7 +38,7 @@ public class Product {
     @Column(name="image_url")
     private String image;
 
-    @Column(name="condition")
+    @Column(name="conditions")
     private int condition;
 
 }
