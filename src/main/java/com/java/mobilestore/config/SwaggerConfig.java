@@ -27,7 +27,7 @@ public class SwaggerConfig {
                         "1.0.1.1",
                         "",
                         new Contact("", "", ""),
-                        "",
+                        "fsoft",
                         "",
                         Collections.emptyList()
                 ));

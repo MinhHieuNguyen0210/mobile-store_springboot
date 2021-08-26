@@ -41,4 +41,8 @@ public class Product {
     @Column(name="conditions")
     private int condition;
 
+    @Column(name="category")
+    private String category;
+
+
 }
